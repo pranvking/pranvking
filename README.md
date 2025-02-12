@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @pranvking
-- 👀 I’m interested in ...YOu
-- 🌱 I’m currently learning ...NOthing tbr
+- 👋 Hi, I’m @Pranav Karmacharya
+- 👀 I’m interested in ...Learning and growing better
+- 🌱 I’m currently learning ...React and Next js
 - 💞️ I’m looking to collaborate on ...My future projects 
 - 📫 How to reach me ...
 Pranavkarmacharya@gmail.com
